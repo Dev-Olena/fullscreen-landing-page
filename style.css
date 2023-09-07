@@ -10,6 +10,7 @@ h1, p {
 }
 section {
     width: 100vw;
+    color: #926239;
 }
 .first-screen {
     height: 100vh;
@@ -17,16 +18,13 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
 }
 .container {
     width: 90%;
     margin: 0 auto;
     padding: 20% 0;
     text-align: center;
-    color: #926239;
 }
-
 .header {
     font-size: 4rem;
     line-height: 4rem;
@@ -36,12 +34,13 @@ section {
     text-transform: capitalize;
 }
 .title {
-    font-size: 1.5rem;
-    margin: 1.5rem 0;
+    font-size: 1.7rem;
+    margin: 1.7rem 0;
 }
 .button-container {
     border: 1px solid #926239;
     border-radius: 10px;
+    background: none;
 }
 .button {
     text-decoration: none;
@@ -51,13 +50,27 @@ section {
     display: block;
     padding: 15px;
 }
-
+.second-screen {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    box-sizing: border-box;
+}
 .block {
-
+    padding: 2%;
+    text-align: center;
 }
 .inline-block {
-
+    display: inline-block;
+    width: 33%;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.background-gold {
+    background-color: #926239;
+}
+.background-light {
+    background-color: #f4f4f4;
 }
 .light-text {
-
+    color: #f4f4f4;
 }
