@@ -8,8 +8,10 @@ main {
 h1, p {
     margin: 0;
 }
-.first-screen {
+section {
     width: 100vw;
+}
+.first-screen {
     height: 100vh;
     background-image: url('./assets/beachshowcase.jpg');
     background-repeat: no-repeat;
@@ -49,9 +51,7 @@ h1, p {
     display: block;
     padding: 15px;
 }
-.second-screen {
 
-}
 .block {
 
 }
