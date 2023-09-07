@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, p {
+    margin: 0;
+}
+.first-screen {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./assets/beachshowcase.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20% 0;
+    text-align: center;
+    color: #926239;
+}
+
+.header {
+    font-size: 4rem;
+    line-height: 4rem;
+} 
+
+.capitalize {
+    text-transform: capitalize;
+}
+.title {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+.button {
+
+}
+.second-screen {
+
+}
+.block {
+
+}
+.inline-block {
+
+}
+.light-text {
+
+}
