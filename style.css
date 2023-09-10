@@ -37,18 +37,15 @@ section {
     font-size: 1.7rem;
     margin: 1.7rem 0;
 }
-.button-container {
+.button {
     border: 1px solid #926239;
     border-radius: 10px;
     background: none;
-}
-.button {
-    text-decoration: none;
+    padding: 15px;
     color: #926239;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5rem;
-    display: block;
-    padding: 15px;
+
 }
 .second-screen {
     font-size: 1.5rem;
